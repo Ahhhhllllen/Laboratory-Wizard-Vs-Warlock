@@ -14,7 +14,7 @@ public class App {
 
         System.out.println("\nFight Start!!!!");
 
-        //the sequence starts here and Kepweng changes
+        //the sequence starts here and Kepweng attack first
         Kepweng.c(Saruman);
         Kepweng.statsShower();
         Saruman.statsShower();

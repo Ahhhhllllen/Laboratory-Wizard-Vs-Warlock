@@ -26,7 +26,7 @@ public class Warlock extends Character{
         damageTarget(enemyCharacter, damagePoints);
     }
 
-    //this two methods is the attacks
+    //this is the regen spell
     public void spellRegen(){
         int heal = 100;
         int manaRegen = 40;
